@@ -1,0 +1,19 @@
+{
+  "name": "elaina-core",
+  "version": "0.0.1",
+  "description": "优雅的后台管理系统解决方案",
+  "homepage": "https://github.com/lemoe-technology/elaina-core",
+  "bugs": {
+    "url": "https://github.com/lemoe-technology/elaina-core/issues"
+  },
+  "license": "MIT",
+  "author": "Lemoe",
+  "repository": "github:lemoe-technology/elaina-core.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "private": true
+}
